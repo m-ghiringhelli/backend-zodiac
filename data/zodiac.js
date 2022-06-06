@@ -1,4 +1,4 @@
-[
+const zodiac = [
   {
     id: 1,
     name: 'aquarius',
@@ -72,3 +72,5 @@
     symbol: 'Virgin'
   }
 ];
+
+module.exports = { zodiac };
